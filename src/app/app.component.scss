@@ -24,4 +24,16 @@
     background-color: rgba(0,0,0,0.4);
     position: absolute;
     top: 0;
+    display: flex;
+    align-items: center;
+    padding-left: 32px;
+   
+    p{
+        padding-left: 64px;
+        max-width: 500px;
+        color: white;
+        font-size: 3em;
+        border-left: 8px solid red;
+    }
 }
+
